@@ -12,3 +12,5 @@ purpose of this website is to help begginers
 we are deploying the website now. we are searching for host
 ## How To Contribute
 you can contribute using github. do not modify working code 
+## COPYRIGHT
+Message copyright
