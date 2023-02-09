@@ -1,7 +1,7 @@
 
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. new line added
+This repository is for showing how Git and GitHub work. new line added.we are doing emergency change
 
 ## Introduction
 
